@@ -1,0 +1,7 @@
+/.idea
+/digits/*
+/iris/*
+/wine/*
+/breast_cancer/*
+*env
+/venv
