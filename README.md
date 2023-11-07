@@ -1,5 +1,7 @@
 # 🌳 Python-Leo Decision Tree Classifier Transpiler 🚀
 
+DISCORD: ollstar41
+
 The program for transpiling decision tree models created using the scikit-learn library into Leo language code from the [Aleo](https://aleo.org/) project.
 
 ---
